@@ -1,0 +1,4 @@
+[Peer]
+PublicKey = <public_key>
+Endpoint = <public_ip>:<port>
+AllowedIPs = <private_ip>/32

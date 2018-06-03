@@ -1,0 +1,4 @@
+[Interface]
+Address = <private_ip>/22
+PrivateKey = <private_key>
+ListenPort = <port>
